@@ -1,0 +1,48 @@
+[33mcommit 9359a71b21b920758ebcc5e8fee5d0c044f6bd8a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f6a42e9 50191db
+Author: Muhat123 <abduttawwabmuhammad@gmail.com>
+Date:   Mon Aug 22 19:49:26 2022 +0700
+
+    Merge branch 'main' of https://github.com/Muhat123/Pelatihan-FE
+
+[33mcommit f6a42e9fe79f025bb6212a6cccb647372d0ba7c1[m
+Author: Muhat123 <abduttawwabmuhammad@gmail.com>
+Date:   Mon Aug 22 19:49:14 2022 +0700
+
+    halo ini adalah file baru bernama das
+
+[33mcommit 50191db8198ed2c0e04e8b96d37ce1e59bc05737[m
+Author: Muhammad Abduttawwab <111693086+Muhat123@users.noreply.github.com>
+Date:   Mon Aug 22 19:48:28 2022 +0700
+
+    ini adalah penambahan file
+
+[33mcommit dfeb29db21a82424dca2e5afaab6dbd95ab1deb2[m
+Author: Muhat123 <abduttawwabmuhammad@gmail.com>
+Date:   Mon Aug 22 19:45:23 2022 +0700
+
+    ini adalah penambahan
+
+[33mcommit fb451539f8d94aa470f0073ed12c76a56e3fc1eb[m
+Author: Muhammad Abduttawwab <111693086+Muhat123@users.noreply.github.com>
+Date:   Sun Aug 21 21:19:18 2022 +0700
+
+    Update README.md
+
+[33mcommit 89371c70b164e51dcbe3dbfc8cc067be2759aa12[m
+Author: Muhammad Abduttawwab <111693086+Muhat123@users.noreply.github.com>
+Date:   Sun Aug 21 21:09:17 2022 +0700
+
+    Create README.md
+
+[33mcommit 385ec8be2d0c9d0d9809f062a12c40ba9535b68f[m
+Author: Muhammad Abduttawwab <111693086+Muhat123@users.noreply.github.com>
+Date:   Sun Aug 21 21:08:54 2022 +0700
+
+    Delete README.md
+
+[33mcommit bb3db9d9a482e66a2c29063aa4069c52840a3320[m
+Author: Muhammad Abduttawwab <111693086+Muhat123@users.noreply.github.com>
+Date:   Sun Aug 21 21:07:12 2022 +0700
+
+    Initial commit
